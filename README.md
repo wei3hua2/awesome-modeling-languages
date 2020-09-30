@@ -7,6 +7,7 @@ A curated list of modeling languages resources.
 - [Computer Science](computer-science)
   - [Software Engineering](#software-engineering)
   - [System Engineering](#system-engineering)
+  - [Ontology](#ontology)
 - [Mathematics](#mathematics)
 - [Information Management](#information-management)
 - [Business Process Management](#business-process-management)
@@ -22,11 +23,18 @@ A curated list of modeling languages resources.
 
 * [SysML](https://sysml.org/)
 
+#### Ontology
+
+* [Web Ontology Language (OWL)](https://en.wikipedia.org/wiki/Web_Ontology_Language)
+* [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+
 ### Mathematics
 
 * [Petri Net](http://www.informatik.uni-hamburg.de/TGI/PetriNets/index.php)
-* [AMPL (A Mathematical Programming Language)](https://ampl.com/) -  an algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing.
+* [A Mathematical Programming Language (AMPL)](https://ampl.com/) -  an algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing.
 
 ### Information Management
 
 ### Business Process Management
+
+* [Business Process Model and Notation (BPMN)](http://www.bpmn.org/)
