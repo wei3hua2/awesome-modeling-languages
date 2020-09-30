@@ -17,11 +17,12 @@ A curated list of modeling languages resources.
 #### Software Engineering
 
 * [UML (Unified Modeling Language)](http://uml.org/)
-* [Architecture Analysis & Design Language (AADL)](https://en.wikipedia.org/wiki/Architecture_Analysis_%26_Design_Language)
 
 #### System Engineering
 
-* [SysML](https://sysml.org/)
+* [SysML](https://sysml.org/) - A general-purpsoe modeling language for system engineering applications.
+* [Architecture Analysis & Design Language (AADL)](https://en.wikipedia.org/wiki/Architecture_Analysis_%26_Design_Language) - an architecture description language standardized by SAE.
+* [Architecture Description Language (ADL)](https://en.wikipedia.org/wiki/Architecture_description_language) - a language and/or a conceptual model to describe and represent system architectures.
 
 #### Ontology
 
